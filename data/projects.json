@@ -339,5 +339,61 @@
         "category": "ongoing"
       }
     ]
+  },
+  {
+    "name": "Thikam Marampulam",
+    "slug": "thikam-marampulam",
+    "description": "A serene retreat nestled in nature, featuring sustainable design and eco-friendly materials.",
+    "cover": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/design/image_1.png",
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/design/image_1.png",
+        "category": "design"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/design/image_2.png",
+        "category": "design"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/design/image_3.png",
+        "category": "design"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/design/image_4.png",
+        "category": "design"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/design/image_5.png",
+        "category": "design"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/design/image_6.png",
+        "category": "design"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/design/image_7.png",
+        "category": "design"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/design/image_8.png",
+        "category": "design"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/ongoing/image_1.png",
+        "category": "ongoing"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/ongoing/image_2.png",
+        "category": "ongoing"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/ongoing/image_3.png",
+        "category": "ongoing"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/majus28/a2z-images/refs/heads/main/thikam-marampulam/ongoing/image_4.png",
+        "category": "ongoing"
+      }
+    ]
   }
 ]
